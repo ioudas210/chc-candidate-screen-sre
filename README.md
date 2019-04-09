@@ -7,7 +7,7 @@ Clone this git project.  Answer as many of questions as you can to the best of y
 
 ## Questions
 1. Create a Java program that outputs "Change Healthcare" to the console.
-2. Create s SQL statement that queries for all fields of the first 100 rows of an imaginary "countries" table.
+2. Create a SQL statement that queries for all fields of the first 100 rows of an imaginary "countries" table.
 3. Create a Java program that outputs the expiration date of the SSL certificate of the changehealthcare.com web server.
 4. Create a test that verifies that "Better Healthcare, Improved Lives" is visible on the changehealthcare.com landing page.
 5. Create a Java program that iterates throught the numbers 1 to 100 and
